@@ -1,0 +1,21 @@
+{
+  "name": "premium-akun-bot",
+  "version": "2.0.0",
+  "description": "Telegram bot for selling premium accounts (Gemini, Netflix, Spotify, etc.) with automatic wallet topup (QRIS, USDT BEP20, TON & Binance Pay)",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "dotenv": "^16.4.5",
+    "qrcode": "^1.5.4",
+    "archiver": "^7.0.1",
+    "telegram": "^2.26.16",
+    "input": "^1.0.1",
+    "@ton/ton": "^15.1.0",
+    "@ton/crypto": "^3.3.0",
+    "bip39": "^3.1.0"
+  }
+}

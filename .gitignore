@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Environment / credentials (NEVER commit these)
+.env
+.env.local
+.env.*.local
+
+# Automatic backups
+backups/
+*.zip
+
+# Userbot session
+*.session
+session.txt
+
+# Logs & temporary files
+*.log
+npm-debug.log*
+.DS_Store
+
+# Local database runtime artifacts
+data/db.json.bak
+data/db.json.tmp
+*.bak

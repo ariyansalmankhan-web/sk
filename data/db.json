@@ -1,0 +1,57 @@
+{
+  "users": {},
+  "products": [],
+  "deposits": [],
+  "orders": [],
+  "pendingAction": {},
+  "emojiIds": {
+    "menu:copy_id_binance": "5888561507557447441",
+    "menu:batalkan_binance": "5974083768233760323",
+    "menu:topup_binance": "5888561507557447441",
+    "menu:gift": "5913600088856334619"
+  },
+  "settings": {
+    "backup": {
+      "enabled": true,
+      "intervalMinutes": 3,
+      "groupId": ""
+    },
+    "forceJoin": {
+      "enabled": true,
+      "channels": []
+    },
+    "channelNotif": {
+      "enabled": true,
+      "chatRef": "",
+      "title": "Namzora Official Group",
+      "notifyPurchase": true,
+      "notifyTopup": true,
+      "notifyReferral": true,
+      "notifyMaintenance": true
+    },
+    "maintenance": {
+      "enabled": false,
+      "message": null
+    },
+    "giftPricing": {
+      "markupPct": 21,
+      "starsToUsdRate": null
+    },
+    "starsPricing": {
+      "markupPct": 8,
+      "starsToUsdRate": null,
+      "manualPriceUsd": null
+    },
+    "fragment": {
+      "cookie": "",
+      "hash": "",
+      "dh": "",
+      "mnemonic": "",
+      "autoBuyEnabled": "false",
+      "maxTonPerTx": null
+    }
+  },
+  "giftOrders": [],
+  "reservedSavedGifts": {},
+  "starsOrders": []
+}
